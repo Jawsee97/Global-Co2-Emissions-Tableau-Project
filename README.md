@@ -16,10 +16,10 @@ This Tableau Viz was comprised from the 'Data playground' dataset within [mavena
 - The 20th century saw a rise in emissions from North America and Europe, peaking mid-century
 - In recent decades, China's share of global emissions has surged, overtaking traditional industrial economies meanwhile, the United States and Europe has declined, though absolute emissions remain high
 
-📍 Link to Data: [global_co2_data.xlsx](https://github.com/user-attachments/files/22202664/global_co2_data.xlsx)
+📍 Link to download Data: [global_co2_data.xlsx](https://github.com/user-attachments/files/22202664/global_co2_data.xlsx)
 
 
-📍 Tableau Dashboard : [(https://public.tableau.com/views/YesisTienditaFinalDashboard/YesisTiendita?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/app/profile/jose.aguilar8390/viz/GlobalCO2EmissionsProject_17555432876070/GlobalCO2Emissions)
+📍 Tableau [Dashboard](https://public.tableau.com/app/profile/jose.aguilar8390/viz/GlobalCO2EmissionsProject_17555432876070/GlobalCO2Emissions)
 
 ## 📊 Visualization
 
